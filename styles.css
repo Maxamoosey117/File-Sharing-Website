@@ -5,5 +5,10 @@
 
 .footer {
   font-size: 15px;
-  background-color: #343434;
+  display: grid;
+  justify-content: center
+}
+
+.link a {
+  font-size: 19px;
 }
