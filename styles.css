@@ -2,3 +2,8 @@
   display: grid;
   justify-content: center;
 }
+
+.footer {
+  font-size: 15px;
+  background-color: #343434;
+}
